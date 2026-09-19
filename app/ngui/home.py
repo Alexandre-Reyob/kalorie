@@ -234,7 +234,7 @@ def render():
             ui.html(f'<div style="background:rgba(245,158,11,0.07); border:1px solid rgba(245,158,11,0.25); '
                     f'border-radius:14px; padding:12px 15px; font-size:0.88rem;">Aucune série loggée {since}. '
                     f'Sans suivi des charges, impossible de savoir si le surplus part en muscle. '
-                    f'Donne tes séries (exo, reps, lest) après chaque séance.</div>').classes("w-full")
+                    f'Logge tes séries (exo, reps, lest) après chaque séance : Log → Sport → Street.</div>').classes("w-full")
         else:
             chips = "".join(
                 f'<div style="background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.08); '

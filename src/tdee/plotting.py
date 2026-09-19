@@ -1,7 +1,7 @@
 """Shared matplotlib style: recessive axes, fixed categorical order, text in ink colors."""
 import matplotlib.pyplot as plt
 
-SERIES = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100"]  # fixed order, never cycled
+SERIES = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4"]  # fixed order, never cycled
 SURFACE = "#fcfcfb"
 INK = "#0b0b0b"
 INK_2 = "#52514e"

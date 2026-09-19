@@ -1,0 +1,98 @@
+food_id,name,brand,kcal_100g,protein_100g,fat_100g,carbs_100g,source,unit_name,unit_g,default_qty_g
+poulet_(escalope_crue),Poulet (escalope crue),,110.0,22.0,2.5,0.0,seed,,,360.0
+poulet_(escalope_cuite),Poulet (escalope cuite),,165.0,31.0,3.6,0.0,seed,,,
+dinde_(escalope_crue),Dinde (escalope crue),,105.0,22.0,1.5,0.0,seed,,,
+boeuf_haché_5%,Boeuf haché 5%,,130.0,21.0,5.0,0.0,seed,,,
+boeuf_haché_15%,Boeuf haché 15%,,215.0,19.0,15.0,0.0,seed,,,
+steak_(bavette),Steak (bavette),,180.0,28.0,8.0,0.0,seed,,,
+jambon_blanc,Jambon blanc,,110.0,20.0,3.0,1.0,seed,,,
+saumon,Saumon,,200.0,20.0,13.0,0.0,seed,,,
+thon_nature_(boîte),Thon nature (boîte),,105.0,25.0,1.0,0.0,seed,,,110.0
+cabillaud,Cabillaud,,80.0,18.0,0.7,0.0,seed,,,
+œuf_entier,Œuf entier,,145.0,13.0,10.0,1.0,seed,œuf,50.0,
+blanc_d'œuf,Blanc d'œuf,,50.0,11.0,0.2,0.7,seed,blanc,33.0,
+riz_blanc_cru,Riz blanc cru,,355.0,7.5,0.6,78.0,seed,,,120.0
+riz_blanc_cuit,Riz blanc cuit,,130.0,2.7,0.3,28.0,seed,,,
+riz_complet_cuit,Riz complet cuit,,115.0,2.6,0.9,23.0,seed,,,
+pâtes_cuites,Pâtes cuites,,130.0,5.0,0.9,27.0,seed,,,
+pain_complet,Pain complet,,245.0,10.0,3.0,45.0,seed,tranche,30.0,
+pain_blanc_(baguette),Pain blanc (baguette),,270.0,9.0,1.5,55.0,seed,tranche,30.0,
+pomme_de_terre_cuite,Pomme de terre cuite,,80.0,2.0,0.1,17.0,seed,,,
+patate_douce_cuite,Patate douce cuite,,90.0,1.6,0.1,20.0,seed,,,
+avoine_(flocons),Avoine (flocons),,380.0,13.0,7.0,60.0,seed,,,50.0
+quinoa_cuit,Quinoa cuit,,120.0,4.4,1.9,21.0,seed,,,
+lentilles_cuites,Lentilles cuites,,115.0,9.0,0.4,20.0,seed,,,
+pois_chiches_cuits,Pois chiches cuits,,140.0,8.0,3.0,20.0,seed,,,
+haricots_rouges_cuits,Haricots rouges cuits,,125.0,8.0,0.5,22.0,seed,,,
+brocoli,Brocoli,,34.0,2.8,0.4,7.0,seed,,,
+carotte,Carotte,,41.0,0.9,0.2,10.0,seed,carotte,80.0,80.0
+courgette,Courgette,,17.0,1.2,0.3,3.1,seed,,,
+tomate,Tomate,,18.0,0.9,0.2,3.9,seed,tomate,120.0,120.0
+concombre,Concombre,,15.0,0.7,0.1,3.6,seed,concombre,300.0,300.0
+salade_verte,Salade verte,,15.0,1.4,0.2,2.9,seed,,,200.0
+épinards,Épinards,,23.0,2.9,0.4,3.6,seed,,,
+haricots_verts,Haricots verts,,35.0,1.8,0.2,7.1,seed,,,100.0
+poivron_rouge,Poivron rouge,,31.0,1.0,0.3,6.0,seed,poivron,150.0,
+oignon,Oignon,,40.0,1.1,0.1,9.3,seed,oignon,110.0,73.0
+champignons,Champignons,,22.0,3.1,0.3,3.3,seed,,,100.0
+avocat,Avocat,,160.0,2.0,15.0,9.0,seed,avocat,200.0,
+huile_d'olive,Huile d'olive,,900.0,0.0,100.0,0.0,seed,c. à soupe,14.0,
+huile_de_colza,Huile de colza,,900.0,0.0,100.0,0.0,seed,c. à soupe,14.0,
+beurre,Beurre,,745.0,0.7,83.0,0.7,seed,c. à café,5.0,
+skyr_nature,Skyr nature,,60.0,11.0,0.2,4.0,seed,pot,150.0,
+fromage_blanc_0%,Fromage blanc 0%,,45.0,8.0,0.1,3.5,seed,pot,100.0,
+yaourt_nature,Yaourt nature,,61.0,3.5,3.3,4.7,seed,pot,125.0,
+lait_demi-écrémé,Lait demi-écrémé,,47.0,3.2,1.6,4.8,seed,verre,200.0,
+mozzarella,Mozzarella,,280.0,18.0,22.0,2.0,seed,,,
+parmesan,Parmesan,,420.0,38.0,28.0,3.0,seed,,,
+banane,Banane,,89.0,1.1,0.3,20.0,seed,banane,120.0,
+pomme,Pomme,,52.0,0.3,0.2,14.0,seed,pomme,180.0,180.0
+orange,Orange,,47.0,0.9,0.1,11.0,seed,orange,130.0,
+fraises,Fraises,,32.0,0.7,0.3,7.0,seed,poignée,100.0,
+amandes,Amandes,,580.0,21.0,50.0,22.0,seed,poignée,30.0,
+noix,Noix,,655.0,15.0,65.0,14.0,seed,poignée,30.0,
+beurre_de_cacahuète,Beurre de cacahuète,,600.0,25.0,50.0,20.0,seed,c. à soupe,16.0,
+chocolat_noir_70%,Chocolat noir 70%,,540.0,8.0,38.0,45.0,seed,carré,10.0,
+miel,Miel,,304.0,0.3,0.0,82.0,seed,c. à café,7.0,
+whey_isolat_(poudre),Whey isolat (poudre),,375.0,90.0,1.0,3.0,seed,dose,30.0,
+poireau_cuit,Poireau cuit,,30.0,1.4,0.3,5.5,ciqual,poireau,150.0,150.0
+boeuf_haché_10%,Boeuf haché 10%,,170.0,20.0,10.0,0.0,ciqual,,,
+vin_rouge,Vin rouge,,83.0,0.1,0.0,2.6,ciqual,verre 12.5cl,125.0,
+ratatouille,Ratatouille,,75.0,1.5,5.0,6.0,ciqual,,,
+boeuf_cuit_(sauté/grillé),Boeuf cuit (sauté/grillé),,220.0,26.0,12.0,0.0,ciqual,,,
+canard_rôti_(avec_peau),Canard rôti (avec peau),,335.0,19.0,28.0,0.0,ciqual,,,
+canard_rôti_(sans_peau),Canard rôti (sans peau),,140.0,25.0,4.0,0.0,ciqual,,,
+coconut_water,Coconut water,,20.0,0.2,0.1,4.0,ciqual,100mL,100.0,
+frites_(resto),Frites (resto),,312.0,3.4,15.0,41.0,ciqual,portion,80.0,
+fruit_de_la_passion,Fruit de la passion,,97.0,2.2,0.7,23.0,ciqual,fruit,18.0,
+ananas_frais,Ananas frais,,50.0,0.5,0.1,12.0,ciqual,tranche,50.0,
+pastèque,Pastèque,,30.0,0.6,0.2,7.5,ciqual,tranche,100.0,
+tomate_cerise,Tomate cerise,,18.0,0.9,0.2,3.9,ciqual,tomate,15.0,
+dinde_cuite_(rôti),Dinde cuite (rôti),,135.0,26.0,3.0,0.0,ciqual,,,
+tofu_ferme,Tofu ferme,,120.0,12.0,7.0,2.0,ciqual,,,
+vinaigre_balsamique,Vinaigre balsamique,,90.0,0.5,0.0,17.0,ciqual,c. à soupe,15.0,50.0
+pousses_de_soja_(germes),Pousses de soja (germes),,30.0,3.0,0.2,6.0,ciqual,,,
+poivron_vert,Poivron vert,,20.0,0.9,0.2,4.6,ciqual,poivron,150.0,
+raisin_vert,Raisin vert,,70.0,0.7,0.2,17.0,ciqual,,,150.0
+maïs_à_popcorn_(grain_sec),Maïs à popcorn (grain sec),,380.0,12.0,4.0,75.0,generic,,,100.0
+sauce_poivre,Sauce poivre,,180.0,2.0,15.0,5.0,generic,,,
+cappuccino,Cappuccino (lait entier),,40.0,2.2,2.0,3.2,generic,tasse,180.0,
+konjac_noodles,Konjac noodles,,10.0,0.3,0.0,3.0,generic,sachet,200.0,
+fruits_rouges_congelés,Fruits rouges congelés (mix),,45.0,1.0,0.3,10.0,generic,,,100.0
+saucisson_sec,Saucisson sec,,450.0,25.0,38.0,1.0,generic,,,
+jambon_bayonne,Jambon de Bayonne,,250.0,28.0,14.0,0.5,generic,tranche,25.0,
+flocons_avoine,Flocons d'avoine,,380.0,13.0,7.0,60.0,generic,c.à.s,10.0,
+maïs_doux_(grains),Maïs doux (grains),,86.0,3.2,1.2,19.0,ciqual,,,
+bière_blonde_(générique_5%),Bière blonde (générique 5%),,42.0,0.4,0.0,3.2,generic,100mL,100.0,
+framboises,Framboises,,52.0,1.2,0.7,12.0,ciqual,barquette,125.0,
+chou_cru_(salade),Chou cru (salade),,25.0,1.3,0.1,5.0,ciqual,,,
+cacahuètes,Cacahuètes,,600.0,26.0,49.0,16.0,ciqual,,,
+farine_de_blé,Farine de blé,,364.0,10.0,1.0,76.0,ciqual,,,
+lardons,Lardons,,330.0,15.0,30.0,0.5,ciqual,,,
+colin/lieu_(filet),Colin/lieu (filet),,85.0,18.0,1.0,0.0,ciqual,,,
+melon,Melon,,34.0,0.8,0.2,8.0,ciqual,tranche,150.0,
+steak_haché_(5%),Steak haché 5%,,137.0,21.0,5.0,0.0,seed,steak,100.0,150.0
+agneau_(cuit),Agneau cuit,,250.0,25.0,16.0,0.0,seed,g,100.0,100.0
+myrtilles,Myrtilles,,57.0,0.7,0.3,14.0,seed,g,100.0,125.0
+nectarine,Nectarine,,44.0,1.0,0.3,10.0,seed,fruit,130.0,130.0
+steak_haché_(15%),Steak haché 15%,,208.0,19.0,15.0,0.0,seed,g,100.0,125.0

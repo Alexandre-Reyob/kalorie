@@ -1,6 +1,6 @@
-# Kalman TDEE
+# Kalorie
 
-A nutrition and training tracker I use every day to hit my goals (currently a lean bulk: slow weight gain,
+**Kal**man filter + ca**lorie**. A nutrition and training tracker I use every day to hit my goals (currently a lean bulk: slow weight gain,
 protein target, progressive overload), and the statistics behind its most important number: **how many
 calories I actually burn**, estimated from a bathroom scale and a food log, with confidence intervals that
 mean what they say.
@@ -115,8 +115,8 @@ Robustness checks in the same notebook:
 ## Getting started
 
 ```bash
-git clone https://github.com/Alexandre-Reyob/kalman-tdee.git
-cd kalman-tdee
+git clone https://github.com/Alexandre-Reyob/kalorie.git
+cd kalorie
 pip install -r requirements.txt
 pytest -q
 jupyter notebook notebooks/

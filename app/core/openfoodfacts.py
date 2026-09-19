@@ -10,7 +10,7 @@ SEARCH_URL = "https://world.openfoodfacts.org/cgi/search.pl"
 SEARCH_URL_V2 = "https://search.openfoodfacts.org/search"
 PRODUCT_URL = "https://world.openfoodfacts.org/api/v2/product/{barcode}.json"
 
-UA = {"User-Agent": "kalman-tdee-tracker/0.1"}
+UA = {"User-Agent": "kalorie/0.1"}
 
 
 def _get_with_retry(url: str, params: dict, retries: int = 3, backoff: float = 0.7):

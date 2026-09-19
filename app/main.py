@@ -49,11 +49,11 @@ def page_profil():
 if __name__ in {"__main__", "__mp_main__"}:
     import os
     ui.run(
-        title="Kalman TDEE tracker",
+        title="Kalorie",
         favicon="🥗",
         dark=True,
         port=int(os.environ.get("TRACKER_PORT", 8080)),
 
         reload=True,
-        storage_secret="kalman-tdee-local",
+        storage_secret="kalorie-local",
     )
